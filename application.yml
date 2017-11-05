@@ -1,2 +1,6 @@
 config.name: value brought from config server 6
 newValue: new Value from config server 19
+spring:
+  datasourcekk:
+    username: dbuser
+    password: '{cipher}FKSAJDFGYOS8F7GLHAKERGFHLSAJ'
