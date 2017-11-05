@@ -3,4 +3,4 @@ newValue: new Value from config server 19
 spring:
   datasourcekk:
     username: dbuser
-    password: '{cipher}FKSAJDFGYOS8F7GLHAKERGFHLSAJ'
+    password: '{cipher}AQCcJPXNsrRnNPb/JFQKB/EMOiqjKSWR7Ab9g6Uh5/r7iBsL2PsmfBiIYGI1mtmtOA9UAH24SuBXNvPckp2QwsM8LXQqFuzEgcYD6sIEj2bds5CCd5yPgjB4LDKCEWBRYYLpE/Ouo9hbmZiRck2KdZVPNpjnUDabj0TedOxmp/X6VcNa8sLY98eQujVEp6U0FuIrmOs1c6usu1ZUE0s9d2xPvZZrh2pD9N5H9nC7yC3ExJf0l4dNZ8p85ww//++Li/hMOK/refEVGCr/1iQUoHdcp/+FIy1hKCpJtSAM8vAaq9rSJqcBdfaltzT5zG6DZj/XezN3ZoevxGaci5PKC93gMiWSklW68A7B0TJT7G2aAq8G5APKn5WkUe5vOmsfuLU='
